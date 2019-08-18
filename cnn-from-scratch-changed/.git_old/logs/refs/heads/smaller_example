@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 49903308cfd9575a8d1fd7777864cf61993d108c Karl-M <djdanger@gmx.de> 1565768604 +0200	branch: Created from HEAD
+49903308cfd9575a8d1fd7777864cf61993d108c 3b1e52ce6b1e6989548790e3dc141a2356d876db Karl-M <djdanger@gmx.de> 1565773957 +0200	merge rewrite_max_backprop: Fast-forward
+3b1e52ce6b1e6989548790e3dc141a2356d876db 757c5b097caa4d0a9c033ba8ce1330a7b4c4085c Karl-M <djdanger@gmx.de> 1565790304 +0200	commit: first simple version of derivatives mp layer with respect to filter working
+757c5b097caa4d0a9c033ba8ce1330a7b4c4085c e78bdc69d1e61338c71a810f4c39fd3317a3ea86 Karl-M <djdanger@gmx.de> 1565791097 +0200	commit: derivatives now for arbitrary number of filters
+e78bdc69d1e61338c71a810f4c39fd3317a3ea86 9c59a2fb1eec19993625bda006ec9bb93177eca0 Karl-M <djdanger@gmx.de> 1565947712 +0200	commit: backprop conv funktioniert, problem war, dass im Code vom Blog die filter des Convlayers anderes herum indiziert werden, als die anderen
+9c59a2fb1eec19993625bda006ec9bb93177eca0 cd2bc078bfa4e1d2c01ea858fe614636cc57e8cd Karl-M <djdanger@gmx.de> 1565948627 +0200	commit: vor copy small examples

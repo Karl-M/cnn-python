@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 3198242900a86f9fade7e68512854ed045ac4b5f Karl-M <djdanger@gmx.de> 1565770913 +0200	branch: Created from HEAD
+3198242900a86f9fade7e68512854ed045ac4b5f f572508215e40b00c9d6d5d0b5fc7bc93bbb15b8 Karl-M <djdanger@gmx.de> 1565773399 +0200	commit: should be normal that gradients of soft_back are different, since output from maxpool comes in different order, so no need to rewrite maxprop
+f572508215e40b00c9d6d5d0b5fc7bc93bbb15b8 3b1e52ce6b1e6989548790e3dc141a2356d876db Karl-M <djdanger@gmx.de> 1565773908 +0200	commit: outputs of softmax backprop are indeed different

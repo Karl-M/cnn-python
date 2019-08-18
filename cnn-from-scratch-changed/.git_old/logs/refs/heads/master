@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 44e75d876b6ed6148e0da65cf8ee9424f55a2179 Konstantinadamriese <konstantin.hoffie@adam-riese.de> 1565169084 +0200	clone: from https://github.com/vzhou842/cnn-from-scratch
+44e75d876b6ed6148e0da65cf8ee9424f55a2179 49903308cfd9575a8d1fd7777864cf61993d108c Karl-M <djdanger@gmx.de> 1565768590 +0200	commit: vor branch smaller_example
+49903308cfd9575a8d1fd7777864cf61993d108c 3198242900a86f9fade7e68512854ed045ac4b5f Karl-M <djdanger@gmx.de> 1565770901 +0200	commit: branching rewrite backprop maxpool
